@@ -1,0 +1,3 @@
+[workspace]
+members = ["http", "httpserver", "tcs_client", "tcs_server"]
+resolver="2"
